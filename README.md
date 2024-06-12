@@ -1,4 +1,4 @@
-![banner](https://github.com/JCosmos909/JCosmos909.github.io/blob/main/img/banner.png)
+![banner](https://github.com/JCosmos909/Portfolio/img/banner.png)
 
 ### Social Media
 
